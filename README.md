@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   <img src='https://img.shields.io/badge/Laptop-X456URK-blue?style=flat-square'/>
   <img src='https://img.shields.io/badge/VM-Virtualbox-lightgrey?style=flat-square'/>
   <img src='https://img.shields.io/badge/OS-Windows%2010%2020H2-informational?style=flat-square'/>
-  <img src='https://img.shields.io/badge/OS(VM)-Various-blueviolet?style=flat-square'/>
+  <img src='https://img.shields.io/badge/OS(VM)-Various-lightgrey?style=flat-square'/>
   <img src='https://img.shields.io/badge/IDE-Vscode%2C%20Vim%2C%20nano-success?style=flat-square'/>
   
   
