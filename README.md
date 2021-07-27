@@ -30,7 +30,18 @@ Here are some ideas to get you started:
   
 ## Favorite Things
 <p align='left'>
-  <img src='https://img.shields.io/badge/-Linux%20Ricing-brightgreen?style=flat-square' width='120' height='40' alt='HTML'/>
+  <img src='https://img.shields.io/badge/-Linux%20Ricing-brightgreen?style=flat-square'/>
+  
+## Env
+<p align='left'>
+  <img src='https://img.shields.io/badge/Laptop-X456URK-blue?style=flat-square'/>
+  <img src='https://img.shields.io/badge/VM-Virtualbox-lightgrey?style=flat-square'/>
+  <img src='https://img.shields.io/badge/OS-Windows%2010%2020H2-informational?style=flat-square'/>
+  <img src='https://img.shields.io/badge/OS(VM)-Various-blueviolet?style=flat-square'/>
+  <img src='https://img.shields.io/badge/IDE-Vscode%2C%20Vim%2C%20nano-success?style=flat-square'/>
+  
+  
+  
   
 
 
