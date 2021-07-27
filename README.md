@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <p align='left'>
   <img src='https://img.shields.io/badge/-Linux%20Ricing-brightgreen?style=flat-square'/>
   
-## Env
+## Environment
 <p align='left'>
   <img src='https://img.shields.io/badge/Laptop-X456URK-blue?style=flat-square'/>
   <img src='https://img.shields.io/badge/VM-Virtualbox-lightgrey?style=flat-square'/>
