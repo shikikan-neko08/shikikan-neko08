@@ -30,11 +30,8 @@ Here are some ideas to get you started:
   
 ## Favorite Things
 <p align='left'>
-  <img src='https://img.shields.io/badge/-Linux%20Ricing-brightgreen?style=flat-square' width='40' height='40' alt='HTML'/>
+  <img src='https://img.shields.io/badge/-Linux%20Ricing-brightgreen?style=flat-square' width='120' height='40' alt='HTML'/>
   
-## Currently Learn
-<p align='left'>
-  <img src='https://img.shields.io/badge/-Python-blue?style=flat-square' width='40' height='40' alt='HTML'/>
 
 
 
