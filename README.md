@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 ## Favorite Things
 <p align='left'>
   <img src='https://img.shields.io/badge/-Linux%20Ricing-brightgreen?style=flat-square'/>
+  <img src='https://img.shields.io/badge/-cats-darkgreen?style=flat-square'/>
   
 ## Environment
 <p align='left'>
