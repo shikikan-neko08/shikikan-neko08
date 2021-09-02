@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-- 20 y.o
+- 21 y.o
 - Indonesian
 - College Student
 
