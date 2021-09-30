@@ -18,9 +18,12 @@ Here are some ideas to get you started:
 <details>
   <summary>ummm... nothing</summary>
   
- Pemuda Kesayangan
+"Dont pull my tail please." About this paperchild
 
-Di sini, di jiwa cinta
+You know i like cat so much especcially in loli things
+Yeah, I'm obsessed with cat since i was ten. I like cat because they are so cute. My first cat, melet. She is one of most beloved cat in my school. I like her. I'm obsessed until now. Then melet just moved to new place. I met a cat again but now it was male. He always get closer to me when break time. I sometimes give him a food.
+Then in november, 10 i just realized most of cat in my school are banned. I was cry and sad. But mr arif said try to ikhlas maybe allah will replace the new one
+And a poetry from anonymous "Di sini, di jiwa cinta
 Telah bertahta dirimu selengkap sayang, kasih, dan penerimaan
 Semua hal baik tentangmu adalah alasan menyedia ruang energi agar kau terdampingi selalu senang sedihmu
 Maafkan jika hari ini, terpaksa kupahitkan pilihan
@@ -32,7 +35,19 @@ Sungguh bukan inginku, tapi pilihan ini saja yang tersedia
 Kelak, saat tlah kau nikmati relasi manusiawimu, katakan padaku bahwa aku tak salah hari ini
 
 Terima kasih kepada "Abu Hurairah" @azhar_abdurrahim atas sabar tak bertepi untuk "Ibnu Hurairah"ku.
-Semoga Allah membahagiakanmu sepanjang hayat sepanjang usia.
+Semoga Allah membahagiakanmu sepanjang hayat sepanjang usia_ "
+
+Yah i relized sometimes i like to disturb cat i'm sorry
+
+But if you know i like #tsumiki from #acchikocchi
+Than i like some anime that related to cat
+
+Rip nicky and jacky
+#neverforget
+Hope you are in good condition
+Happy -nyan-
+
+#yaong #nekogirl #nekololi #paperchild #catgirl #loli #kawaii
   
 </details>
 
