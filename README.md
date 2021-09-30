@@ -15,6 +15,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<details>
+  <summary>ummm... nothing</summary>
+  
+ Pemuda Kesayangan
+
+Di sini, di jiwa cinta
+Telah bertahta dirimu selengkap sayang, kasih, dan penerimaan
+Semua hal baik tentangmu adalah alasan menyedia ruang energi agar kau terdampingi selalu senang sedihmu
+Maafkan jika hari ini, terpaksa kupahitkan pilihan
+"Kesenanganmu" kuambil sebentar
+Agar bisa kau rasakan jenis bahagia lain tentang "manusia"
+Bukan tentang hewan lucu berbulu halus berkaki empat
+Air matamu siang tadi masih membekas di jiwa
+Sungguh bukan inginku, tapi pilihan ini saja yang tersedia
+Kelak, saat tlah kau nikmati relasi manusiawimu, katakan padaku bahwa aku tak salah hari ini
+
+Terima kasih kepada "Abu Hurairah" @azhar_abdurrahim atas sabar tak bertepi untuk "Ibnu Hurairah"ku.
+Semoga Allah membahagiakanmu sepanjang hayat sepanjang usia.
+  
+</details>
+
 ## About Me
 - 21 y.o
 - Indonesian
