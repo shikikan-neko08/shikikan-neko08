@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <details>
-  <summary>ummm... nothing</summary>
+  <summary>ummm... nyathing</summary>
   
 "Dont pull my tail please." About this paperchild
 
