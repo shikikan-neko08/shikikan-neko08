@@ -55,6 +55,7 @@ Happy -nyan-
 - 21 y.o
 - Indonesian
 - College Student
+- Cat Lover
 
 ## Links
 <a href='https://twitter.com/Shikikan_Neko08'>
