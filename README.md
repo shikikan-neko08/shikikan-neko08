@@ -78,12 +78,7 @@ Happy -nyan-
   <img src='https://img.shields.io/badge/OS(VM)-Various-lightgrey?style=flat-square'/>
   <img src='https://img.shields.io/badge/IDE-Vscode%2C%20Vim%2C%20nano-success?style=flat-square'/>
   
-<details>
-  <summary>ummm... nyathing</summary>
 
-  [youtube]4QXCPuwBz2E[/youtube]
-  
-</details>
   
   
 
