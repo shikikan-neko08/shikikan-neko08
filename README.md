@@ -52,7 +52,7 @@ Happy -nyan-
 </details>
 
 ## About Me
-- 21 y.o
+- 22 y.o
 - Indonesian
 - College Student
 - Cat Lover
