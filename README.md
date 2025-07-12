@@ -73,10 +73,10 @@ Happy -nyan-
 ## Environment
 <p align='left'>
   <img src='https://img.shields.io/badge/Laptop-FA506NCR-blue?style=flat-square'/>
-  <img src='https://img.shields.io/badge/Laptop2-X456URK-blue?style=flat-square'/>
+  <img src='https://img.shields.io/badge/Laptop%20(Secondinary)-X456URK-blue?style=flat-square'/>
   <img src='https://img.shields.io/badge/VM-Virtualbox-lightgrey?style=flat-square'/>
-  <img src='https://img.shields.io/badge/OS-Windows%201-informational?style=flat-square'/>
-  <img src='https://img.shields.io/badge/OS-Arch%20Linux-informational?style=flat-square'/>
+  <img src='https://img.shields.io/badge/OS-Windows%2011-informational?style=flat-square'/>
+  <img src='https://img.shields.io/badge/OS%20(Secondinary%20Laptop)-Arch%20Linux-informational?style=flat-square'/>
   <img src='https://img.shields.io/badge/OS(VM)-Various-lightgrey?style=flat-square'/>
   <img src='https://img.shields.io/badge/IDE-Vscode%2C%20Vim%2C%20nano-success?style=flat-square'/>
   
