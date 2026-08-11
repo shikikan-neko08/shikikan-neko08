@@ -52,7 +52,7 @@ Happy -nyan-
 </details>
 
 ## About Me
-- 25 y.o
+- 25 y.o 
 - Indonesian
 - College Student
 - Cat Lover
@@ -71,7 +71,7 @@ Happy -nyan-
   <img src='https://img.shields.io/badge/-cats-darkgreen?style=flat-square'/>
 
 ## Certifications
-- Mikrotik Training Certification Network Associate (MTCNA) (May-2025-May2028)
+- Mikrotik Training Certification Network Associate (MTCNA) (May, 2025-May, 2028)
 - Fundamental Excel, Coding Studio (2024)
 - Basic Pentest & Ethical Hacking, TAALENTA (2024)
 - Gitlab Fundamental, Adinusa (2024-2026)
