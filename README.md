@@ -69,6 +69,21 @@ Happy -nyan-
 <p align='left'>
   <img src='https://img.shields.io/badge/-Linux%20Ricing-brightgreen?style=flat-square'/>
   <img src='https://img.shields.io/badge/-cats-darkgreen?style=flat-square'/>
+
+## Certifications
+- Mikrotik Training Certification Network Associate (MTCNA) (May-2025-May2028)
+- Fundamental Excel, Coding Studio (2024)
+- Basic Pentest & Ethical Hacking, TAALENTA (2024)
+- Gitlab Fundamental, Adinusa (2024-2026)
+- Linux System Administration, Adinusa (2024-2026)
+- Fundamental Cyber Security, Coding Studio (2022)
+- Fundamental Command Linux, Coding Studio (2022)
+
+## Interest
+- Networking
+- IT
+- Cloud Computing
+- Linux
   
 ## Environment
 <p align='left'>
