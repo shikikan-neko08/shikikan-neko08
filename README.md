@@ -54,7 +54,7 @@ Happy -nyan-
 ## About Me
 - 25 y.o 
 - Indonesian
-- College Student
+- Autistic (ASD) Level 1
 - Cat Lover
 
 ## Links
