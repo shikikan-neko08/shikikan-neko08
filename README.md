@@ -71,6 +71,7 @@ Happy -nyan-
   <img src='https://img.shields.io/badge/-cats-darkgreen?style=flat-square'/>
 
 ## Certifications
+- Google IT Support Certificate, Google (2026)
 - Mikrotik Training Certification Network Associate (MTCNA) (May, 2025-May, 2028)
 - Fundamental Excel, Coding Studio (2024)
 - Basic Pentest & Ethical Hacking, TAALENTA (2024)
