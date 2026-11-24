@@ -72,7 +72,7 @@ Happy -nyan-
   <img src='https://img.shields.io/badge/-cats-darkgreen?style=flat-square'/>
 
 ## Certifications
-- [SMS AI (2026)](https://smsidn.id/ai)
+- [SMS AI, Sekolah Mengelola Sekolah (2026)](https://smsidn.id/ai)
 - Google IT Support Certificate, Google (2026)
 - Mikrotik Training Certification Network Associate (MTCNA) (May, 2025-May, 2028)
 - Fundamental Excel, Coding Studio (2024)
