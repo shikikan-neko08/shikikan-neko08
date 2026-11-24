@@ -56,6 +56,7 @@ Happy -nyan-
 - Indonesian
 - Autistic (ASD) Level 1
 - Cat Lover
+- I'm not good at coding but interested as a vibecoder
 
 ## Links
 <a href='https://twitter.com/Shikikan_Neko08'>
